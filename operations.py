@@ -25,3 +25,4 @@ print(my_str_1 == my_str_2)
 print(my_str_1 is my_str_2)
 
 # new func
+# test
